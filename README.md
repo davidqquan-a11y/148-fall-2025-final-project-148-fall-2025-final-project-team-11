@@ -16,7 +16,7 @@ The goal of this project is to develop a targeting system using OpenCV that scan
 A two degree-of-freedom (DOF) gimbal mechanism accurately follows the selected target to keep it in frame at all times, constantly ready to fire a rocket engine.
 
 ## What We Delievered
-- OpenCV with OAK-D camera for multiple object detection and tracking 
+- OpenCV with OAK-D camera for objection detection and tracking
 - Dual servo motor control for object following
 - Target selection system
 
