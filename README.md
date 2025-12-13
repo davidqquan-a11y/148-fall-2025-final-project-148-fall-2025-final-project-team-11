@@ -38,7 +38,8 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 - Choose: User input determines which target will be targeted (among many targets detected by camera from scanning mode).
 - Fire: 5 second cooldown, target is locked, hitbox turns red. Theroetically, after 5 seconds the ignition system is activated and a rocket engine fires at target. 
 
-## CAD Model of Servo Mounts
+## CAD Model of Final Design
+<img width="611" height="513" alt="Screenshot 2025-12-13 at 2 26 34 PM" src="https://github.com/user-attachments/assets/78a277f6-7be5-490e-b781-4b4be24f01ea" />
 
 ## Ignition Systems Schematic
 <img width="593" height="396" alt="Ignition system" src="https://github.com/user-attachments/assets/844c7042-6406-4b19-8649-8dae65aab2ba" />
