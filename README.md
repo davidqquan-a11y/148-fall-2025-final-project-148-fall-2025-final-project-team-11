@@ -48,6 +48,11 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 - Initial Car Assembly
 <img width="827" height="584" alt="EarlyQuarterSetup" src="https://github.com/user-attachments/assets/3c7b90da-147a-4233-a5c1-3a7fbd690cf8" />
 
+## Challenges
+- On the softtware side, some challenges we faced were implementing our RoboFlow model to detect our targets (waterbottles) accurately. Because of the quick timeline of this course, we had only trained our models with around one hundred photos. While this model was able to detect waterbottles, it occasionally detected a watch, laptop screen, or bottle-shaped objects for a split second due to the lack of training. Although this was seemingly fine, this issue quickly became a problem when we tried to associate a target with a position, resulting in these objects being remembered as targets. The first solution that came to our minds were to develop a better model. While it would take a substantial amonut of time to add and re-train our model, it would result in targets detected being more accurate. However, an ingenous solution that we arrived at was the 3 second lock-on duration, where objects that were not water bottles could appear quickly, but would not be identified as an object due to being undetected as targets a short moment after.
+
+- On the hardware side, one challenge that was faced was the design of the gimbal's servo to servo connectors. During the designing process of the mount, the mounting holes' geometry was simply projected onto the new mount. The issue with this process was that 3D fillaments are generally weak and the geometry of the holes allowed for a high stress concentration on one of its side, leaving the 3D printed connectors to snap very easily. The solution to this issue was to create a hole that had support on both sides and extrude slightly more on the sides for additional support, resulting in the servo to servo connector being quite resilient. 
+
 ## Hardware Highlights
 
 | Part         | CAD Design |
@@ -66,10 +71,6 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 ## Electric Diagram
 <img width="727" height="414" alt="electrical diagram" src="https://github.com/user-attachments/assets/838ac5c9-671a-4e54-a26b-feed91f9b829" />
 
-## Challenges
-- On the softtware side, some challenges we faced were implementing our RoboFlow model to detect our targets (waterbottles) accurately. Because of the quick timeline of this course, we had only trained our models with around one hundred photos. While this model was able to detect waterbottles, it occasionally detected a watch, laptop screen, or bottle-shaped objects for a split second due to the lack of training. Although this was seemingly fine, this issue quickly became a problem when we tried to associate a target with a position, resulting in these objects being remembered as targets. The first solution that came to our minds were to develop a better model. While it would take a substantial amonut of time to add and re-train our model, it would result in targets detected being more accurate. However, an ingenous solution that we arrived at was the 3 second lock-on duration, where objects that were not water bottles could appear quickly, but would not be identified as an object due to being undetected as targets a short moment after.
-
-- On the hardware side, one challenge that was faced was the design of the gimbal's servo to servo connectors. During the designing process of the mount, the mounting holes' geometry was simply projected onto the new mount. The issue with this process was that 3D fillaments are generally weak and the geometry of the holes allowed for a high stress concentration on one of its side, leaving the 3D printed connectors to snap very easily. The solution to this issue was to create a hole that had support on both sides and extrude slightly more on the sides for additional support, resulting in the servo to servo connector being quite resilient. 
 
 ## Early Quarter Achievements
 - Donkey Car Autonomous Laps:
