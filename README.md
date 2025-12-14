@@ -56,11 +56,8 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 | Part         | CAD Design |
 |-------------|-----------|
 | Adjustable Camera Mount |<img width="545" height="436" alt="Screenshot 2025-12-13 at 5 35 42 PM" src="https://github.com/user-attachments/assets/5734923e-6ba5-4278-931e-4d4078264ca6" />|
-
 | Interchangeable Camera Mount Arm Lengths |<img width="363" height="422" alt="Screenshot 2025-12-13 at 5 37 57 PM" src="https://github.com/user-attachments/assets/d98ec355-16e5-4737-a554-a2ab3b9a6f64" />|
-
 | Adjustable Camera Mount Base |<img width="575" height="396" alt="Screenshot 2025-12-13 at 5 39 02 PM" src="https://github.com/user-attachments/assets/1ad46079-766e-4b5d-9ba4-69bf05af3c5e" />|
-
 | Gimbal Base | <img width="553" height="468" alt="Screenshot 2025-12-13 at 5 32 34 PM" src="https://github.com/user-attachments/assets/a92b7a30-d7df-42e8-b302-735a6af822b7" />|
 | Gimbal Servo Connectors |<img width="426" height="388" alt="Screenshot 2025-12-13 at 5 33 54 PM" src="https://github.com/user-attachments/assets/4468494d-6b1c-42cd-a146-dc42c4f554dc" />|
 | Gimbal Arm & Camera Mount|<img width="579" height="534" alt="Screenshot 2025-12-13 at 5 34 29 PM" src="https://github.com/user-attachments/assets/491fe772-8ed3-48c9-96fa-414a245f629c" />|
