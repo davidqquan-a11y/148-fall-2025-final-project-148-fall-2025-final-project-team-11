@@ -75,7 +75,7 @@ al
 - Donkey Car GPS Laps: 
 
 ## Acknowledgements
-Special thanks to Professor Silberman, our (overwoked) TA's Aryan & Winston, and the countless peers who have offered us inisght, motivation, and good company throughout the countless hours and late nights spent on our autonomous car.
+Special thanks to Professor Silberman, our (very overworked) TA's Aryan & Winston, and the countless peers who have offered us helpful inisght, motivation, and good company throughout the countless hours and late nights spent on our autonomous car.
 
 ## Contact Information
 | Team Member    | Email |
