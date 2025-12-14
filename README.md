@@ -72,11 +72,6 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 ## Electric Diagram
 <img width="727" height="414" alt="electrical diagram" src="https://github.com/user-attachments/assets/838ac5c9-671a-4e54-a26b-feed91f9b829" />
 
-
-## Early Quarter Achievements
-- Donkey Car Autonomous Laps:
-- Donkey Car GPS Laps: 
-
 ## Acknowledgements
 Special thanks to Professor Silberman, our (very overworked) TA's Aryan & Winston, and the countless peers who have offered us helpful inisght, motivation, and good company throughout the countless hours and late nights spent on our autonomous car.
 
